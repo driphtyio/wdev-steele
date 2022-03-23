@@ -17,8 +17,7 @@ Course outline, links, and notes
 
   10. What Matters In this Section? 
       - [Course Public Trello Board](https://trello.com/b/0PVRE1XQ/web-developer-bootcamp) 
-      - [WDB+Web+Dev+Intro.pdf](https://github.com/driphtyio/wdev-steele/files/8336632/WDB%2BWeb%2BDev%2BIntro.pdf)
-
+    
   11. The Inernet in 5 Minutes
   12. Into to the Web
   13. The Request/Response Cycle
@@ -27,8 +26,19 @@ Course outline, links, and notes
       - [Code Pen](https://codepen.io/giana/pen/GJMBEv) JavaScript calculator
 
   16. Setting Up Our Developer Environment
-
       - [Google Chrome Broswer](https://www.google.com/chrome/) download page
       - [VSCode IDE Editor](https://code.visualstudio.com/) download page
       - [Windows OS - Snap Your Windows](https://support.microsoft.com/en-us/windows/snap-your-windows-885a9b1e-a983-a3b1-16cd-c531795e6241#:~:text=Use%20Snap%20to%20arrange%20all,to%20once%20you%20drop%20it.) how-to page
+      - [MAC OS - Spectacle App](https://www.spectacleapp.com/) download page note: no longer being actively maintained
+
+  17. OPTIONAL: VScode Extensions [Youtube Video](https://www.youtube.com/watch?v=rH1RTwaAeGc&t=1s) 
+      - [Emmet](https://code.visualstudio.com/docs/editor/emmet)
+      - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+      - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+      - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+      - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+      - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+      - [ES7/React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+      - [Prettier Now](https://marketplace.visualstudio.com/items?itemName=remimarsal.prettier-now)
+        
    
