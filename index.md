@@ -46,7 +46,7 @@ Course outline, links, and notes
   21. TIP: Mozilla Developer Network
       - [MDN Homepage](https://developer.mozilla.org/en-US/)
       - [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-  22. Paragraph Elements 
+  22. Paragraph Elements - [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
       ```
       <p> paragraph text here </p>
       ```
