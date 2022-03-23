@@ -47,6 +47,8 @@ Course outline, links, and notes
       - [MDN Homepage](https://developer.mozilla.org/en-US/)
       - [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   22. Paragraph Elements 
-      '''<p> example </p>'''
+      ```
+      <p> paragraph text here </p>
+      ```
    
     
