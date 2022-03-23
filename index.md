@@ -10,5 +10,7 @@
   9. Migrating From the Old Version
 
 #Section 2: An Introduction to Web Development
+
   10. What Matters In this Section? 
+
     - [Public Trello Board](https://trello.com/b/0PVRE1XQ/web-developer-bootcamp) 
