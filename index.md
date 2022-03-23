@@ -9,7 +9,7 @@
   8. Tips On The Interactive Coding Exercises
   9. Migrating From the Old Version
 
-#Section 2: An Introduction to Web Development
+# Section 2: An Introduction to Web Development
 
   10. What Matters In this Section? 
 
