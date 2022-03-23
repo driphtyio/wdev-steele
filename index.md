@@ -16,11 +16,18 @@ Course outline, links, and notes
 # Section 2: An Introduction to Web Development
 
   10. What Matters In this Section? 
+      - [Course Public Trello Board](https://trello.com/b/0PVRE1XQ/web-developer-bootcamp) 
 
-   - [Course Public Trello Board](https://trello.com/b/0PVRE1XQ/web-developer-bootcamp) 
   11. The Inernet in 5 Minutes
   12. Into to the Web
   13. The Request/Response Cycle
   14. Front-End and Back-End
   15. What do HTML/CSS/JS do?
-  - [Code Pen](https://codepen.io/giana/pen/GJMBEv) JavaScript calculator
+      - [Code Pen](https://codepen.io/giana/pen/GJMBEv) JavaScript calculator
+
+  16. Setting Up Our Developer Environment
+
+      - [Google Chrome Broswer](https://www.google.com/chrome/) download page
+      - [VSCode IDE Editor](https://code.visualstudio.com/) download page
+      - [Windows OS - Snap Your Windows](https://support.microsoft.com/en-us/windows/snap-your-windows-885a9b1e-a983-a3b1-16cd-c531795e6241#:~:text=Use%20Snap%20to%20arrange%20all,to%20once%20you%20drop%20it.) how-to page
+   
