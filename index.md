@@ -46,9 +46,18 @@ Course outline, links, and notes
   21. TIP: Mozilla Developer Network
       - [MDN Homepage](https://developer.mozilla.org/en-US/)
       - [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-  22. Paragraph Elements - [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
+  22. Paragraph Elements - [MDN Paragraph Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
       ```
       <p> paragraph text here </p>
       ```
-   
-    
+   23. Heading Elements [MDN Heading Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+      ```
+      
+      <h1> extra large </h1>
+      <h2> large </h2>
+      <h3> medium </h3>
+      <h4> small </h4>
+      <h5> extra small </h5>
+      <h6> tiny </h6>
+      
+    ```
