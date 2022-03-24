@@ -63,7 +63,6 @@ Course outline, links, and notes
   25. HTML Boilerplate [FreeCodeCamp Boilerplate Template](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
   26. VSCode Tip: Auto-format 
   27. List Elements [MDN List Item Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
-
   ```
   <ul> 
     <li>Unorder list</li>
