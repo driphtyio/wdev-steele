@@ -1,4 +1,4 @@
-[HOME](https://driphtyio.github.io/wdev-steele/)[HTML](https://driphtyio.github.io/wdev-steele/html.html)
+[HOME](https://driphtyio.github.io/wdev-steele/)  [HTML](https://driphtyio.github.io/wdev-steele/html.html)
 
 The Web Developer Bootcamp 2022 by [Colt Steele](https://www.udemy.com/user/coltsteele/). 
 
