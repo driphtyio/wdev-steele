@@ -1,5 +1,2 @@
-------
-permalink: HTML
-layout: post
-title:  "HTML"
------
+
+# HTML Resources
