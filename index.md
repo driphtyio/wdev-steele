@@ -2,6 +2,8 @@ The Web Developer Bootcamp 2022 by [Colt Steele](https://www.udemy.com/user/colt
 
 Course outline, links, and notes
 
+  [HTML](https://driphtyio.github.io/wdev-steele/html.html)
+  
 # Section 1: Course Orientation
   1. Welcome To the Course!
   2. Curriculum Walkthrough
