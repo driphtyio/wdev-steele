@@ -63,6 +63,7 @@ Course outline, links, and notes
   25. HTML Boilerplate [FreeCodeCamp Boilerplate Template](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
   26. VSCode Tip: Auto-format 
   27. List Elements [MDN List Item Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
+
 ```
 <ul> 
   <li>Unorder list</li>
@@ -71,15 +72,21 @@ Course outline, links, and notes
   <li> Ordered list </li>
   </ol>
 ```
+  
   28. Anchor Tags [MDN Archor Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+
 ```
 <a href="https://google.com>Google</a>
 ```
+  
   29. Images [MDN Image Embed Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img), [W3schools HTML File Paths Tutorial](https://www.w3schools.com/html/html_filepaths.asp)
+
 ```
 <img src="/images/picture.jpg">
 ```
-  30. Comments [W3schools HTML Comments Tutorial](https://www.w3schools.com/html/html_comments.asp)
+ 
+ 30. Comments [W3schools HTML Comments Tutorial](https://www.w3schools.com/html/html_comments.asp)
+
 ```
 <!--- Write  your comments here --->
 ```
