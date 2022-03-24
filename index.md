@@ -47,9 +47,9 @@ Course outline, links, and notes
       - [MDN Homepage](https://developer.mozilla.org/en-US/)
       - [MDN HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   22. Paragraph Elements - [MDN Paragraph Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
-   ```
+```
       <p> paragraph text here </p>
-  ```
+```
    23. Heading Elements [MDN Heading Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 ```
       <h1> extra large </h1>
@@ -59,5 +59,28 @@ Course outline, links, and notes
       <h5> extra small </h5>
       <h6> tiny </h6>
 ``` 
+  24. Introduction to the Chrome Inspector [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+  25. HTML Boilerplate [FreeCodeCamp Boilerplate Template](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
+  26. VSCode Tip: Auto-format 
+  27. List Elements [MDN List Item Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
+```
+<ul> 
+  <li>Unorder list</li>
+</ul>
+<ol>
+  <li> Ordered list </li>
+  </ol>
+```
+  28. Anchor Tags [MDN Archor Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+```
+<a href="https://google.com>Google</a>
+```
+  29. Images [MDN Image Embed Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img), [W3schools HTML File Paths Tutorial](https://www.w3schools.com/html/html_filepaths.asp)
+```
+<img src="/images/picture.jpg">
+```
+  30. Comments [W3schools HTML Comments Tutorial](https://www.w3schools.com/html/html_comments.asp)
+```
+<!--- Write  your comments here --->
+```
 
-    
