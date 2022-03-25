@@ -60,7 +60,7 @@ The Web Developer Bootcamp 2022 by [Colt Steele](https://www.udemy.com/user/colt
 # Section 4: HTML: Next Steps & Semantics
  31. What Matters In This Section
  32. What Exactly is HTML 5? [HTML Standard](https://html.spec.whatwg.org/)
- 33. Block vs. Inline Elements - Divs and Spans[W3Schools Block and Inline Elements Tutorial](https://www.w3schools.com/html/html_blocks.asp)
+ 33. Block vs. Inline Elements - Divs and Spans [W3Schools Block and Inline Elements Tutorial](https://www.w3schools.com/html/html_blocks.asp)
  34. An Odd Assortment of Elements: HR, BR, Sup, & Sub 
  35. Entity Codes [W3 Entity Code Reference](https://dev.w3.org/html5/html-author/charref)
  36. Intro to Semantic Markup [W3Schools Semantic Element Tutorial](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -71,7 +71,9 @@ The Web Developer Bootcamp 2022 by [Colt Steele](https://www.udemy.com/user/colt
 # Section 5: HTML: Forms & Tables
  40. What Matters In This Section
  41. Unit Goals
- 42. Introduction HTML Tables[Wikipedia Table Example](https://en.wikipedia.org/wiki/List_of_largest_cities#List)[Dole/Kemp 96 Website](http://www.dolekemp96.org/main.htm)
- 43. Tables: TR, TD, and TH Elements[JavatPoint Table Elements Tutorial](https://www.javatpoint.com/html-table)[W3Schools Table Elements Tutorial](https://www.w3schools.com/tags/tag_table.asp)
+ 42. Introduction HTML Tables [Wikipedia Table Example](https://en.wikipedia.org/wiki/List_of_largest_cities#List)[Dole/Kemp 96 Website](http://www.dolekemp96.org/main.htm)
+ 43. Tables: TR, TD, and TH Elements [JavatPoint Table Elements Tutorial](https://www.javatpoint.com/html-table)[W3Schools Table Elements Tutorial](https://www.w3schools.com/tags/tag_table.asp)
  44. Tables: THead, Tbody, Tfoot Elements
+ 45. Tables: Colspan & Rowspan
+ 46. 
 
