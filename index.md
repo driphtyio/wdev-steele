@@ -56,3 +56,12 @@ The Web Developer Bootcamp 2022 by [Colt Steele](https://www.udemy.com/user/colt
   28. Anchor Tags [MDN Archor Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
   29.  Images [MDN Image Embed Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img), [W3schools HTML File Paths Tutorial](https://www.w3schools.com/html/html_filepaths.asp)
  30. Comments [W3schools HTML Comments Tutorial](https://www.w3schools.com/html/html_comments.asp)
+ 31. What Matters In This Section
+ 32. What Exactly is HTML 5?[HTML Standard](https://html.spec.whatwg.org/)
+ 33. Block vs. Inline Elements - Divs and Spans[W3Schools Block and Inline Elements Tutorial](https://www.w3schools.com/html/html_blocks.asp)
+ 34. An Odd Assortment of Elements: HR, BR, Sup, & Sub 
+ 35. Entity Codes [W3 Entity Code Reference](https://dev.w3.org/html5/html-author/charref)
+ 36. Intro to Semantic Markup [W3Schools Semantic Element Tutorial](https://www.w3schools.com/html/html5_semantic_elements.asp)
+ 37. Playing with Semantic Elements
+ 38. Screen Reader Demostration 
+ 39. VScode Tip: Emmet [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
