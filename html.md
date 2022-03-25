@@ -12,6 +12,7 @@
   
 ## Tutorial
   - [W3schools](https://www.w3schools.com/html/)
+  - [Quackit](https://www.quackit.com/html/)
 
 ## HTML Online editor
   - [W3Schools](https://www.w3schools.com/tryit/)
