@@ -75,5 +75,7 @@ The Web Developer Bootcamp 2022 by [Colt Steele](https://www.udemy.com/user/colt
  43. Tables: TR, TD, and TH Elements [JavatPoint Table Elements Tutorial](https://www.javatpoint.com/html-table)[W3Schools Table Elements Tutorial](https://www.w3schools.com/tags/tag_table.asp)
  44. Tables: THead, Tbody, Tfoot Elements
  45. Tables: Colspan & Rowspan
- 46. 
+ 46. The Form Element [MDN Form Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)[W3Schools Form Element Tutorial](https://www.w3schools.com/html/html_form_elements.asp)
+ 47. Common Input Types
+ 48. The All-Important Label
 
