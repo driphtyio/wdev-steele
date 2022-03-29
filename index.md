@@ -77,6 +77,16 @@ Course Outline
  44. Tables: THead, Tbody, Tfoot Elements
  45. Tables: Colspan & Rowspan
  46. The Form Element [MDN Form Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)[W3Schools Form Element Tutorial](https://www.w3schools.com/html/html_form_elements.asp)
- 47. Common Input Types
+ 47. Common Input Types [MDN Input Label Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
  48. The All-Important Label
+ 49. HTML Buttons
+ 50. The Name Attribute
+ 51. "Hijacking" Google & Reddit's search
+ 52. Radio Buttons, Checkboxes & Selects
+ 53. Range & Text Area
+ 54. HTML 5 Form Validations
+ 55. Creating A Marathon Registration Form Intro
+ 56. Creating a Marathon Registration Form Solution
+
+# Section 6: CSS: The Very Basics
 
