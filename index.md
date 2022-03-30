@@ -1,8 +1,10 @@
-## [Home](https://driphtyio.github.io/wdev-steele/)   [HTML](https://driphtyio.github.io/wdev-steele/html.html) 
+## DriphtyIO Study Guide
+
+### [Home](https://driphtyio.github.io/wdev-steele/)   [HTML](https://driphtyio.github.io/wdev-steele/html.html) 
 
 Information from [Colt Steele's](https://www.udemy.com/user/coltsteele/) Web Developer Bootcamp on Udemy
   
-# Section 1: Course Orientation
+## Section 1: Course Orientation
   1. Welcome To the Course!
   2. Curriculum Walkthrough
   4. When Was The Course Last Updated?
@@ -13,7 +15,7 @@ Information from [Colt Steele's](https://www.udemy.com/user/coltsteele/) Web Dev
   9. Tips On The Interactive Coding Exercises
   10. Migrating From the Old Version
 
-# Section 2: An Introduction to Web Development
+## Section 2: An Introduction to Web Development
 
   10. What Matters In this Section? 
       - [Course Public Trello Board](https://trello.com/b/0PVRE1XQ/web-developer-bootcamp) 
@@ -38,7 +40,7 @@ Information from [Colt Steele's](https://www.udemy.com/user/coltsteele/) Web Dev
       - [ES7/React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
       - [Prettier Now](https://marketplace.visualstudio.com/items?itemName=remimarsal.prettier-now)
         
-# Section 3: HTML Essentials
+## Section 3: HTML Essentials
 
   18. What Matters in This Section
   19. Introduction to HTML
@@ -56,7 +58,7 @@ Information from [Colt Steele's](https://www.udemy.com/user/coltsteele/) Web Dev
   29.  Images [MDN Image Embed Element Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img), [W3schools HTML File Paths Tutorial](https://www.w3schools.com/html/html_filepaths.asp)
  30. Comments [W3schools HTML Comments Tutorial](https://www.w3schools.com/html/html_comments.asp)
 
-# Section 4: HTML: Next Steps & Semantics
+## Section 4: HTML: Next Steps & Semantics
  31. What Matters In This Section
  32. What Exactly is HTML 5? [HTML Standard](https://html.spec.whatwg.org/)
  33. Block vs. Inline Elements - Divs and Spans [W3Schools Block and Inline Elements Tutorial](https://www.w3schools.com/html/html_blocks.asp)
@@ -67,7 +69,7 @@ Information from [Colt Steele's](https://www.udemy.com/user/coltsteele/) Web Dev
  38. Screen Reader Demostration 
  39. VScode Tip: Emmet [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
-# Section 5: HTML: Forms & Tables
+## Section 5: HTML: Forms & Tables
  40. What Matters In This Section
  41. Unit Goals
  42. Introduction HTML Tables [Wikipedia Table Example](https://en.wikipedia.org/wiki/List_of_largest_cities#List)[Dole/Kemp 96 Website](http://www.dolekemp96.org/main.htm)
@@ -86,6 +88,6 @@ Information from [Colt Steele's](https://www.udemy.com/user/coltsteele/) Web Dev
  55. Creating A Marathon Registration Form Intro
  56. Creating a Marathon Registration Form Solution
 
-# Section 6: CSS: The Very Basics
+## Section 6: CSS: The Very Basics
 
 [wdev-yu](https://driphtyio.github.io/wdev-yu/)
