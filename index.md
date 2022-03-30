@@ -1,10 +1,6 @@
-[Home](https://driphtyio.github.io/wdev-steele/)   [HTML](https://driphtyio.github.io/wdev-steele/html.html) 
+## [Home](https://driphtyio.github.io/wdev-steele/)   [HTML](https://driphtyio.github.io/wdev-steele/html.html) 
 
-[wdev-yu](https://driphtyio.github.io/wdev-yu/)
-
-The Web Developer Bootcamp 2022 by [Colt Steele](https://www.udemy.com/user/coltsteele/). 
-
-Course Outline 
+Information from [Colt Steele's](https://www.udemy.com/user/coltsteele/) Web Developer Bootcamp on Udemy
   
 # Section 1: Course Orientation
   1. Welcome To the Course!
@@ -92,3 +88,4 @@ Course Outline
 
 # Section 6: CSS: The Very Basics
 
+[wdev-yu](https://driphtyio.github.io/wdev-yu/)
