@@ -1,9 +1,7 @@
-
-
-### [Home](https://driphtyio.github.io/wdev-steele/)   [HTML](https://driphtyio.github.io/wdev-steele/html.html) 
-
 Information from [Colt Steele's](https://www.udemy.com/user/coltsteele/) Web Developer Bootcamp on Udemy
   
+### [Home](https://driphtyio.github.io/wdev-steele/)   [HTML](https://driphtyio.github.io/wdev-steele/html.html)  
+
 ## Section 1: Course Orientation
   1. Welcome To the Course!
   2. Curriculum Walkthrough
