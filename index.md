@@ -1,4 +1,4 @@
-## DriphtyIO Study Guide
+
 
 ### [Home](https://driphtyio.github.io/wdev-steele/)   [HTML](https://driphtyio.github.io/wdev-steele/html.html) 
 
